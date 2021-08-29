@@ -9,16 +9,6 @@ h2 {
     letter-spacing: 0.1rem;
 }
 
-span.urdu {
-    font-family: 'Aref Ruqaa', sans-serif;
-    letter-spacing: 0;
-}
-
-span.hindi {
-    font-family: 'Kalam', sans-serif;
-    letter-spacing: 0;
-}
-
 #btn-back-to-top {
     position: fixed;
     bottom: 20px;
